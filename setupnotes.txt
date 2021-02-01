@@ -1,0 +1,8 @@
+For linux jupyter ntoebook:
+https://towardsdatascience.com/running-jupyter-notebook-on-wsl-while-using-firefox-on-windows-5a47ebfae4c1 
+
+evt kig her:
+https://veekaybee.github.io/2020/02/18/running-jupyter-in-venv/
+
+alias sat til åbne browser:
+alias jupyter-notebook='jupyter notebook --no-browser  --port 8888 | /mnt/c/Windows/system32/cmd.exe /c "start http://localhost:8888"'
