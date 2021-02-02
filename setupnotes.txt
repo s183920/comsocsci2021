@@ -6,3 +6,7 @@ https://veekaybee.github.io/2020/02/18/running-jupyter-in-venv/
 
 alias sat til åbne browser:
 alias jupyter-notebook='jupyter notebook --no-browser  --port 8888 | /mnt/c/Windows/system32/cmd.exe /c "start http://localhost:8888"'
+
+#anaconda env
+
+conda activate soc_inf_env
